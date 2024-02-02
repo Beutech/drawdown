@@ -1,0 +1,108 @@
+.drawdown{
+    width: 100vw;
+    height: 100vh;
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.box{
+    background-color: rgb(63, 62, 62);
+    width: 20vw;
+    height: 70vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+}
+.pic{
+    width: 100px;
+    height: 100px;
+    border-radius: 100%;
+    margin-top: 1px;
+}
+.jessica{
+    color:white;
+    font-weight: 700;
+    font-size: 30px;
+    margin-top: 15px;
+}
+.london{
+    color:  rgb(10, 238, 10);
+    font-weight: 200;
+    font-size: 15px;
+    margin-top: 7px;
+}
+.frontend{
+    font-size: 12px;
+    font-weight: 200;
+    color: white;
+    margin-top: 7px;
+}
+.github{
+    background-color: grey;
+    width:17vw;
+    height: 4.5vh;
+    color: white;
+    font-size: 17px;
+    font-weight: 500;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+.Frontendmentor{
+    background-color: grey;
+    width:17vw;
+    height: 4.5vh;
+    color: white;
+    font-size: 17px;
+    font-weight: 500;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+.linkedIn{
+    background-color: grey;
+    width:17vw;
+    height: 4.5vh;
+    color: white;
+    font-size: 17px;
+    font-weight: 500;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+.twitter{
+    background-color: grey;
+    width:17vw;
+    height: 4.5vh;
+    color: white;
+    font-size: 17px;
+    font-weight: 500;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+.Instagram{
+    background-color: grey;
+    width:17vw;
+    height: 4.5vh;
+    color: white;
+    font-size: 17px;
+    font-weight: 500;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+
